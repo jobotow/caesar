@@ -12,7 +12,7 @@ nimble install caesar
 
 # Usage
 ``` bash
-caesar -h
+caesar -h 
 ```
 
 # Help Output
